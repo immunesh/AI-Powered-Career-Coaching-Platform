@@ -507,13 +507,4 @@ Security requirements checklist covering authentication, authorization, data pro
 ### 8.6 Integration Requirements
 Specifications for third-party integrations, including job boards, learning platforms, and career assessment tools, with API requirements and data exchange formats.
 
-## 9. Revision History
-
-| Version | Date       | Description                        | Author                                   |
-|---------|------------|------------------------------------|-----------------------------------------|
-| 0.1     | 2025-05-01 | Initial draft                      | Project Team                            |
-| 1.0     | 2025-05-03 | Complete SRS document              | immuneshAI-Powered-Career-Coaching-Platform |
-
----
-
 This Software Requirements Specification provides a comprehensive foundation for the development of the AI-Powered Career Coaching Platform. It is intended to evolve as the project progresses, with regular updates to reflect changing requirements and new insights.
